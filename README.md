@@ -1,3 +1,3 @@
 # Oficina Andurá
 
-Em breve o novo sítio da Oficina Andurá
+Sítio oficial da Oficina Andurá.
